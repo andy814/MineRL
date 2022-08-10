@@ -25,9 +25,6 @@ MAX_ITER=200_000 # save the model for every MAX_ITER updates
 RUNS=10
 NBR_CHECKPOINTS=10
 
-#NBR_CHECKPOINTS=1
-#RUNS=100
-
 BATCH_SIZE = 16
 random.seed(2022)
 np.random.seed(2022)
